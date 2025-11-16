@@ -72,7 +72,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohammad-javad-tavakoli-3893a42b0/)  [![LinkedIn](https://skillicons.dev/icons?i=discord)]()   [![LinkedIn](https://skillicons.dev/icons?i=gmail)]()  [![LinkedIn](https://skillicons.dev/icons?i=twitter)]()  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohammad-javad-tavakoli-3893a42b0/)  [![LinkedIn](https://skillicons.dev/icons?i=discord)](https://discord.com/)   [![LinkedIn](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/0/)  [![LinkedIn](https://skillicons.dev/icons?i=twitter)](https://x.com/)  
 
 
 

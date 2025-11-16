@@ -1,0 +1,22 @@
+body {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: "Inter", sans-serif;
+  line-height: 1.8;
+  padding: 20px;
+}
+
+a {
+  color: #00eaff;
+  transition: 0.3s;
+}
+
+a:hover {
+  color: #ff00aa;
+}
+
+h1, h2, h3 {
+  color: #ffdd33;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}

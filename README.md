@@ -5,7 +5,6 @@
 
 
 
-</div>
 <div align="center">
  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=EchoSingh&theme=tokyonight-duo&hide_border=true&border_radius=2" alt="streak">
 </div>

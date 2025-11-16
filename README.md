@@ -54,14 +54,20 @@
     <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake-dark.svg" alt="utkarsh pathrabe stats snake" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXYwYXA1Z25vdncybHlidXUzNXY0YWRnMms3cnFnNXd2NWRzYWY3MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TFwukwJ3zSQbO/giphy.gif" width="250">
+</p>
 
-<div align="center">
-  <img src="https://github.com/mjavadtavakoli/mjavadtavakoli/blob/main/photo_1404-02-25%2021.51.22.jpeg?raw=true" width="250"/>
-</div>
+---
+
+```txt
 
 
-
-
+Loading... Golang Skills: ███▒▒▒▒▒▒▒ 23%
+Loading... API Testing: ███████▒▒▒ 80%
+Loading... Sleep Schedule: ▒▒▒▒▒▒▒▒▒ 2%
+Loading... Linux Level: █████▒▒▒▒▒ 45%
+```
 
 <div align="center">
  

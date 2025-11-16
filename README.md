@@ -74,48 +74,4 @@
 <a href="mailto:mohammadjavad.dev@gmail.com"><img src="https://img.shields.io/badge/-mohammadjavad.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mohammad-javad-tavakoli-3893a42b0/"><img src="https://img.shields.io/badge/-Gogetters-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <p align="center">
-<a align="left"> <img src="https://komarev.com/ghpvc/?username=mjavadtavakoli&label=Profile%20views&color=0e75b6&style=flat" alt="mjavadtavakoli" /> </a>
 
-<p align="center">
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-
-  <!-- Postman -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-
-  <!-- Golang -->
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> 
-  </a>
-
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-  </a>
-
-  <!-- Selenium (Fixed) -->
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/selenium.svg" alt="selenium" width="40" height="40"/> 
-  </a>
-
-  <!-- Playwright -->
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-    <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/> 
-  </a>
-
-</p>
